@@ -184,16 +184,16 @@
                        "nom":  "Lanceur Applications",
                        "categorie":  "Outils PC",
                        "description":  "Toutes tes applis et tes dossiers rangés dans un lanceur qui démarre avec Windows.",
-                       "version":  "2.1.0",
+                       "version":  "2.2.0",
                        "type":  "installeur",
                        "detection":  "Lanceur Applications",
                        "exe":  "",
-                       "fichier":  "lanceur-applications-2.1.0.exe",
-                       "tag":  "lanceur-applications-v2.1.0",
-                       "url":  "https://github.com/ubergeek22-ops/aion-hub/releases/download/lanceur-applications-v2.1.0/lanceur-applications-2.1.0.exe",
+                       "fichier":  "lanceur-applications-2.2.0.exe",
+                       "tag":  "lanceur-applications-v2.2.0",
+                       "url":  "https://github.com/ubergeek22-ops/aion-hub/releases/download/lanceur-applications-v2.2.0/lanceur-applications-2.2.0.exe",
                        "icone":  "icons/lanceur-applications.png",
-                       "taille_telechargement":  52548854,
-                       "taille_installee":  185583306
+                       "taille_telechargement":  52552757,
+                       "taille_installee":  186015718
                    },
                    {
                        "id":  "mes-dossiers-favoris",
