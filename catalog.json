@@ -1,7 +1,7 @@
 {
     "nom":  "AION Hub",
     "auteur":  "Roman Schwenk - Schwenk Systems",
-    "mis_a_jour":  "2026-11-05T14:09:44+01:00",
+    "mis_a_jour":  "2026-11-05T16:10:53+01:00",
     "applis":  [
                    {
                        "id":  "meteo-consensus",
@@ -344,16 +344,16 @@
                        "nom":  "Radiobox",
                        "categorie":  "Maison",
                        "description":  "Radio internet façon TuneIn, avec l\u0027affichage RDS des titres en cours.",
-                       "version":  "1.1.0",
+                       "version":  "1.2.1",
                        "type":  "installeur",
                        "detection":  "Radiobox",
                        "exe":  "",
-                       "fichier":  "radiobox-1.1.0.exe",
-                       "tag":  "radiobox-v1.1.0",
-                       "url":  "https://github.com/ubergeek22-ops/aion-hub/releases/download/radiobox-v1.1.0/radiobox-1.1.0.exe",
+                       "fichier":  "radiobox-1.2.1.exe",
+                       "tag":  "radiobox-v1.2.1",
+                       "url":  "https://github.com/ubergeek22-ops/aion-hub/releases/download/radiobox-v1.2.1/radiobox-1.2.1.exe",
                        "icone":  "icons/radiobox.png",
-                       "taille_telechargement":  45978641,
-                       "taille_installee":  145256149
+                       "taille_telechargement":  45992742,
+                       "taille_installee":  145395928
                    },
                    {
                        "id":  "streambox",
